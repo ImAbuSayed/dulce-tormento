@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-tormento/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Dulce tormento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-tormento/) |
+| **Get License** | [Obtain a Music License for Dulce tormento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-tormento/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `54be564a33fa399fb477f5558a691eb2c62cf09443f2182075949c64b8f27875` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

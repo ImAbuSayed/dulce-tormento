@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce tormento
+
+This log tracks the cryptographic history and versioning for the song **Dulce tormento** (dulce-tormento).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T23:49:34.762572 | `v1` | `54be564a33fa399fb477f5558a691eb2c62cf09443f2182075949c64b8f27875` | `a03d19b1445d40c47511223c832c7dd33d5ff1dc1e7512ee78ebe48b1a344dd3` | `2026-06-15_dulce-tormento-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
