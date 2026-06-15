@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-tormento/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Dulce tormento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-tormento/) |
+| **Get License** | [License this song: Dulce tormento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-tormento/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ese aroma a perfume caro me tiene mal,
+> Una mirada tuya y me empiezo a desvelar.
+> En esta noche de Madrid somos el fuego,
+> Dime que sí, baby, y empezamos el juego.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
